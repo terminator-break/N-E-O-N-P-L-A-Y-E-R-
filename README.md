@@ -90,7 +90,7 @@ NeonPlayer — компактный полупрозрачный плеер, к�
 ```bash
 # 1. Клонируем репозиторий
 git clone https://github.com/terminator-break/N-E-O-N-P-L-A-Y-E-R-
-cd neonplayer
+cd N-E-O-N-P-L-A-Y-E-R-
 
 # 2. (Опционально) создаём виртуальное окружение
 python -m venv .venv
